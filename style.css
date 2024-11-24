@@ -1,0 +1,17 @@
+body {
+    background-color: #f2f5f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.card {
+    background-color: aqua;
+    max-width: 500px;
+    width: 200%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.result {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
